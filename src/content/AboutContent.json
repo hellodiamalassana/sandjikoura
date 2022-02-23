@@ -1,0 +1,16 @@
+{
+  "title": "Surveiller, Piloter et Automatiser",
+  "text": "La plupart des systèmes d’irrigation automatiques se contentent d’arroser à heure fixe. SANDJIKOURA, grâce à ses différents capteurs, est capable de détecter si le sol est suffisamment humide, ou s’il nécessite au contraire une quantité d’eau plus importante. Il va ensuite réguler son débit d’eau en fonction, pour un arrosage optimal en toutes circonstances enfin d’entretenir et de gérer la croissance d’espèces particulièrement sensibles à l’humidité.",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+  ]
+}
